@@ -35,6 +35,8 @@ Dataset: hr_data_mnc.csv
 
 Visualizations
 1. Number of Employees by Department
+   <img width="1000" height="600" alt="image" src="https://github.com/user-attachments/assets/b50ee2f3-4fea-4489-b23c-a1e309088ff3" />
+
 (outputs\1_Employees_by_Department.png)
 
 Summary: Shows how employees are distributed across departments. IT and HR dominate, while R&D has the fewest employees.
@@ -106,3 +108,4 @@ Output Format: High-resolution PNGs suitable for reports and presentations
 About:
 
 This project demonstrates how data visualization can reveal important insights from HR datasets, helping companies detect anomalies and make better workforce decisions.
+
