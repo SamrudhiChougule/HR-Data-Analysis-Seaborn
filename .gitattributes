@@ -1,0 +1,2 @@
+*.csv filter=lfs diff=lfs merge=lfs -text
+data/HR_Data_MNC_Data[[:space:]]Science[[:space:]]Lovers.csv filter=lfs diff=lfs merge=lfs -text
